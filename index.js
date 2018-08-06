@@ -28,10 +28,11 @@ function makeInt(a){
     return 0
   }
   else if ('sldkjflksjf'){
-    return 
+    return true
   }
+  else(){
   return a.toString
-  
+  }
   
 }
 
