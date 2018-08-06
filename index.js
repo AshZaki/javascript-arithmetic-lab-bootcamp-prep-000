@@ -24,7 +24,9 @@ function dec(a){
 }
 
 function makeInt(a){
-  return a.toString 
+  if(a = 0*
+  return a.toString
+  
   
 }
 
