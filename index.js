@@ -1,4 +1,5 @@
 function add(a,b){
-  number = 4+6
+  number = a++b
+  return number
   }
 
