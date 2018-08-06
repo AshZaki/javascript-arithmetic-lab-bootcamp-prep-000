@@ -30,7 +30,7 @@ function makeInt(a){
   else if ('sldkjflksjf'){
     return true
   }
-  else(){
+  else{
   return a.toString
   }
   
