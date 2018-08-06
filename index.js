@@ -24,7 +24,7 @@ function dec(a){
 }
 
 function makeInt(a){
-  if(a.isNaN()) {
+  if(a == NaN) {
     return NaN
   }
   else {
