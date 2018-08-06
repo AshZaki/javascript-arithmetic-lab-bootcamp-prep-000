@@ -24,7 +24,7 @@ function dec(a){
 }
 
 function makeInt(a){
-  if (parseInt('0*2328',10)){
+  if (parseInt('02328',10)){
     return 0
   }
   else if (parseInt('sldkjflksjf',10)){
