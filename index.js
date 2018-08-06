@@ -24,8 +24,8 @@ function dec(a){
 }
 
 function makeInt(a){
-  if (parseInt(,10)){
-    return a
+  if (parseInt('0x2328',10)){
+    return a.toString
   }
   else if (parseInt('a',10)){
     return a
