@@ -24,11 +24,11 @@ function dec(a){
 }
 
 function makeInt(a){
-  if (parseInt('0x2328')){
+  if (parseInt('0*2328')){
     return 0
   }
   else if (parseInt('sldkjflksjf')){
-    return true
+    return "true"
   }
   else{
   return a.toString
