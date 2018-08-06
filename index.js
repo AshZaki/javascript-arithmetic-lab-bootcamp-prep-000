@@ -24,7 +24,10 @@ function dec(a){
 }
 
 function makeInt(a){
-  if(a = 0*
+  if( 0x2328){
+    return 0
+  }
+  else if ()
   return a.toString
   
   
