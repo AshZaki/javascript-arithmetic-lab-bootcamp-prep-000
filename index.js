@@ -31,7 +31,7 @@ function makeInt(a){
     return a
   }
   else{
-  return a.toString
+  return 0
   }
   
 }
