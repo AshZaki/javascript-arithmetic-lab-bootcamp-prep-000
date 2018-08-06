@@ -24,7 +24,7 @@ function dec(a){
 }
 
 function makeInt(a){
-  if (parseInt(0x2328,10)){
+  if (parseInt('0x2328',10)===0){
     return a
   }
   else if (isNaN('sldkjflksjf')){
