@@ -25,10 +25,10 @@ function dec(a){
 
 function makeInt(a){
   if( '0x2328'){
-    return 0
+    return "0"
   }
   else if ('sldkjflksjf'){
-    return true
+    return "true"
   }
   else{
   return a.toString
