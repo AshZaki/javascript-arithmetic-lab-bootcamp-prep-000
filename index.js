@@ -24,10 +24,10 @@ function dec(a){
 }
 
 function makeInt(a){
-  if (parseInt('0x2328',10)){
+  if (parseInt(a,10)){
     return a
   }
-  else if (parseInt('sldkjflksjf',10)){
+  else if (parseInt('a',10) === NaN){
     return a
   }
   else{
